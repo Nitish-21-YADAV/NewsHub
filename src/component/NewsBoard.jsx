@@ -6,8 +6,6 @@ function Newsboard({ category }) {
   const [articles, setArticles] = useState([]);
   const [loading, setLoading] = useState(true);
 
-
-
   useEffect(() => {
     const fetchNews = async () => {
       try {

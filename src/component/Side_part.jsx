@@ -1,8 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import './Side_part2.css'
 import Side_part1 from "./Side_part1";
-import Side_part2 from "./Side_part2";
 import NavBar from "./NavBar"
 import NewsItem from "./NewsItem";
 import NewsItemcard1 from "./NewsItemcard1";

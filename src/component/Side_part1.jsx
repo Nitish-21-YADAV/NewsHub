@@ -1,5 +1,4 @@
 import React from "react";
-import './Side_part2.css'
 import Newsboard from "./NewsBoard";
 import NewsItemcard1 from "./NewsItem";
 import Newsboardcopy from "./NewsBoardcopy";
